@@ -8,8 +8,61 @@
     {
       "type": "heading",
       "level": 1,
+      "word_style": "Heading 1",
+      "outline_number": "1",
       "text": "Introduction",
-      "location_id": "h1-intro"
+      "location_id": "h1-intro",
+      "line_start": 1,
+      "properties": {
+        "font_size": "24pt",
+        "color": "#003f5c"
+      }
+    },
+    {
+      "type": "paragraph",
+      "word_style": "Normal",
+      "text": "This document outlines the technical requirements for the MYRRHA Cryoplant (QPLANT) based on the Deep Research report.",
+      "location_id": "p1",
+      "line_start": 3,
+      "properties": {
+        "font_size": "12pt",
+        "color": "#374c80"
+      }
+    },
+    {
+      "type": "table",
+      "table_id": "table1",
+      "headers": [
+        "Estimated weight",
+        "Cryomodule (QM)",
+        "For 1 QM",
+        "Cold Valve Box (QVB)",
+        "For 1 QM",
+        "Cryogenic lines 4.5 K pipes",
+        "TOTAL cold mass for 30 cryomodules (4.5 K-2 K)"
+      ],
+      "rows": [
+        [
+          "Component A",
+          "1000 kg",
+          "500 kg",
+          "200 kg",
+          "100 kg",
+          "50 kg",
+          "52500 kg"
+        ],
+        [
+          "Component B",
+          "800 kg",
+          "400 kg",
+          "150 kg",
+          "75 kg",
+          "25 kg",
+          "42750 kg"
+        ]
+      ],
+      "location_id": "table1",
+      "line_start": 5
     }
   ]
 }
