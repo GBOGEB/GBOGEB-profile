@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "title": "MYRRHA Cryoplant Technical Requirements",
+    "source_file": "0604_parseme.docx",
+    "version": "1.0.0"
+  },
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Introduction",
+      "location_id": "h1-intro"
+    }
+  ]
+}
