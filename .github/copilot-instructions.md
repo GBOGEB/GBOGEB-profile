@@ -1,3 +1,4 @@
+
 # Digital Twin Parser for DOCX Documents
 
 Digital Twin Parser is a Python-based Jupyter notebook project that converts Microsoft Word DOCX documents into structured JSON data and Markdown format. The project provides both notebook and command-line interfaces for document processing.
@@ -117,3 +118,4 @@ cat output/MAIN.md
 - JSON output includes structured metadata and content blocks for downstream processing
 - Markdown output provides human-readable document representation
 - No linting or formal testing framework - use the provided `test_all.py` for validation
+
